@@ -1,0 +1,10 @@
+Package: recmm
+Type: Package
+Title: recmm: Robust Estimation for Censored Mixture Models
+Version: 0.1
+Date: 2011-12-29
+Author: A.M. Santos
+Maintainer: A.M. Santos <melissa@lettervalue.com>
+Description: Some functions for robust estimation of mixture models and censored mixture models
+License: Artistic-2.0
+LazyLoad: yes
